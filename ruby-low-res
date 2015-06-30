@@ -10,5 +10,6 @@
   "tab_size": 2,
   "translate_tabs_to_spaces": true,
   "word_wrap": true,
-  "wrap_width": 120
+  "wrap_width": 120,
+  "rulers": [120]
 }
